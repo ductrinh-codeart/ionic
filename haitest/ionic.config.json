@@ -1,5 +1,7 @@
 {
-  "name": "list",
-  "integrations": {},
+  "name": "haitest",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
